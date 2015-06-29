@@ -1,0 +1,6 @@
+to do
+replace refresh button with export
+when hit:
+get the selected node
+put dir and subdirs permissions into a datatable
+export to excela

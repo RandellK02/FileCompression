@@ -1,0 +1,50 @@
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\obj\Debug\FileCompression.Form1.resources
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\obj\Debug\FileCompression.Form2.resources
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\bin\Debug\FileExplorer.exe.config
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\bin\Debug\FileExplorer.exe
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\bin\Debug\FileExplorer.pdb
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\obj\Debug\FileExplorer.exe
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\obj\Debug\FileExplorer.pdb
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\bin\Debug\FileExplorer.exe.manifest
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\bin\Debug\FileExplorer.application
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\obj\Debug\FileExplorer.TrustInfo.xml
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\obj\Debug\FileExplorer.exe.manifest
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\obj\Debug\FileExplorer.application
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\obj\Debug\FileExplorer.csproj.ResolveComReference.cache
+C:\Users\Randell\Downloads\AdvancedFileExplorer (1)\FileCompression\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\rkoen\Dropbox\FileCompression\bin\Debug\FileExplorer.exe.config
+C:\Users\rkoen\Dropbox\FileCompression\obj\Debug\FileExplorer.csproj.ResolveComReference.cache
+C:\Users\rkoen\Dropbox\FileCompression\obj\Debug\FileExplorer.exe
+C:\Users\rkoen\Dropbox\FileCompression\obj\Debug\FileExplorer.pdb
+C:\Users\rkoen\Dropbox\FileCompression\bin\Debug\FileExplorer.exe.manifest
+C:\Users\rkoen\Dropbox\FileCompression\bin\Debug\FileExplorer.application
+C:\Users\rkoen\Dropbox\FileCompression\bin\Debug\FileExplorer.exe
+C:\Users\rkoen\Dropbox\FileCompression\bin\Debug\FileExplorer.pdb
+C:\Users\rkoen\Dropbox\FileCompression\obj\Debug\FileCompression.Form1.resources
+C:\Users\rkoen\Dropbox\FileCompression\obj\Debug\FileCompression.Form2.resources
+C:\Users\rkoen\Dropbox\FileCompression\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\rkoen\Dropbox\FileCompression\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+C:\Users\rkoen\Dropbox\FileCompression\obj\Debug\FileExplorer.TrustInfo.xml
+C:\Users\rkoen\Dropbox\FileCompression\obj\Debug\FileExplorer.exe.manifest
+C:\Users\rkoen\Dropbox\FileCompression\obj\Debug\FileExplorer.application
+C:\Users\rkoen\Dropbox\FileCompression\obj\Debug\FileExplorer.ExportLevels.resources
+C:\Users\Randell\Dropbox\FileCompression\bin\Debug\FileExplorer.exe.config
+C:\Users\Randell\Dropbox\FileCompression\obj\Debug\FileExplorer.csproj.ResolveComReference.cache
+C:\Users\Randell\Dropbox\FileCompression\obj\Debug\FileExplorer.exe
+C:\Users\Randell\Dropbox\FileCompression\obj\Debug\FileExplorer.pdb
+C:\Users\Randell\Dropbox\FileCompression\bin\Debug\FileExplorer.exe.manifest
+C:\Users\Randell\Dropbox\FileCompression\bin\Debug\FileExplorer.application
+C:\Users\Randell\Dropbox\FileCompression\bin\Debug\FileExplorer.exe
+C:\Users\Randell\Dropbox\FileCompression\bin\Debug\FileExplorer.pdb
+C:\Users\Randell\Dropbox\FileCompression\obj\Debug\FileExplorer.ExportLevels.resources
+C:\Users\Randell\Dropbox\FileCompression\obj\Debug\FileCompression.Form1.resources
+C:\Users\Randell\Dropbox\FileCompression\obj\Debug\FileCompression.Form2.resources
+C:\Users\Randell\Dropbox\FileCompression\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\Randell\Dropbox\FileCompression\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+C:\Users\Randell\Dropbox\FileCompression\obj\Debug\FileExplorer.TrustInfo.xml
+C:\Users\Randell\Dropbox\FileCompression\obj\Debug\FileExplorer.exe.manifest
+C:\Users\Randell\Dropbox\FileCompression\obj\Debug\FileExplorer.application
+C:\Users\rkoen\Dropbox\FileCompression\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\Randell\Dropbox\FileCompression\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
